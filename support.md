@@ -1,5 +1,7 @@
 # Assistance — Strikt
 
+**Français** · [English](https://yannis1307.github.io/strikt-legal/en/support)
+
 Une question, un problème, une demande liée à tes données ? Écris-nous à **strikt.contact@gmail.com**. Nous répondons en général sous quelques jours.
 
 ## Questions fréquentes

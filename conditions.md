@@ -1,5 +1,7 @@
 # Conditions d'utilisation — Strikt
 
+**Français** · [English](https://yannis1307.github.io/strikt-legal/en/terms)
+
 Dernière mise à jour : 6 octobre 2026
 
 Éditeur : Yannis Leroy — strikt.contact@gmail.com
